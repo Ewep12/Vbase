@@ -27,6 +27,8 @@ Google Cloud BigQuery – dados em nuvem
 google-cloud-bigquery – integração com o banco
 
 🚀 Como Executar
+utilize o arquivo JSON e rode o codigo
+
 ✅ Pré-requisitos
 Python 3.8+
 
@@ -36,10 +38,7 @@ Conta no Google Cloud com chave de API JSON
 bash
 Copiar código
 python main.py
-📷 Demonstrações
-Tela principal com visualização dos dados:
-
 
 
 📚 Relatório
-Relatório completo disponível em  no repositório.
+Relatório completo disponível em .
