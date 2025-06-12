@@ -35,11 +35,7 @@ Conta no Google Cloud
 
 🖥️ Execução
 
-bash
-
-Copiar código
-
-python main.py
+Ao executar o codigo com a sua chave JSON, para os graficos aparecerem coloque o filtro de data do mês e ano que deseja (database oferece informações dos anos de 2010 a 2019)
 
 
 📚 Relatório
