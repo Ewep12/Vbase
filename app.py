@@ -14,7 +14,7 @@ from matplotlib.figure import Figure
 from PyQt5.QtGui import QPalette, QColor
 from collections import Counter
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\Ewerton.Pereira\PyCharmMiscProject\database-saude-82f854fd2cc7.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"CHAVE-JSON-AQUI"
 
 def inicializar_banco():
     conexao = sqlite3.connect('usuarios.db')
