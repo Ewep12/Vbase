@@ -41,3 +41,17 @@ Ao executar o codigo com a sua chave JSON, para os graficos aparecerem coloque o
 📚 Relatório
 
 Relatório completo disponível em Vbase - relatorio.
+
+Grupo que realizou esse projeto:
+
+Ewerton Pereira Santos Silva - 202403611414 
+
+Breno Antony Oliveira Pontes - 202402412094 
+
+Zenilson José Oliveira de Almeida - 202402618075 
+
+Guilherme antonio da silva ribeiro - 202403512661 
+
+Luan meyrison da Silva - 202402412256 
+
+Gustavo Henrique Carvalho de Moraes - 202402533193
